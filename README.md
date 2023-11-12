@@ -1,8 +1,8 @@
 # Ai-Semantic-Search-App
-Sematic Search App using Langchain, FAISS, OpenAI, Streamlit.
+Semantic Search App using Langchain, FAISS, OpenAI, Streamlit.
 
 
-Sematic Search App designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the URL.
+Semantic Search App designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the URL.
 
 ## Features
 
