@@ -24,7 +24,7 @@ Semantic Search App designed for effortless information retrieval. Users can inp
 ```bash
   cd Ai-Semantic-Search-App
 ```
-3. Install the required dependencies using pip:
+3.Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
@@ -37,7 +37,7 @@ Semantic Search App designed for effortless information retrieval. Users can inp
 
 ## Usage/Examples
 
-1. Run the Streamlit app by executing:
+1.Run the Streamlit app by executing:
 ```bash
 streamlit run app.py
 
